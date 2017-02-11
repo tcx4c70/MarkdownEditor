@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="objectweb.asm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/objectweb.asm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MarkdownEditor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MarkdownEditor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
