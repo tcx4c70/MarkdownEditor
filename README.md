@@ -1,3 +1,4 @@
 Markdown Editor
 ====
-This is a Markdown-Editor written in Java which support CSCW.
+用Java写的支持CSCW的Markdown编辑器。
+
